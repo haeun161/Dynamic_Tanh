@@ -24,7 +24,7 @@ Experiments on Dynamic Tanh(Paper: Transformers without Normalization)
 - According to the paper, Limation of DyT was that DyT struggled to fully replace BatchNormalization
   - ![image](https://github.com/user-attachments/assets/e8a6ca66-b715-4d06-96dc-8bf72aa5474d)
 
-- Experiment Environment
+- **Experiment Environment**
   - Uses Pretrained ResNet50
     - with BatchNorm
     - Replace BatchNorm to DyT
