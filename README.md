@@ -53,8 +53,7 @@ Experiments on Dynamic Tanh(Paper: Transformers without Normalization)
 
 ### Results
 - **BatchNorm**
-  - ![image](https://github.com/user-attachments/assets/d84b40a5-2c7e-45ba-b6f8-b8e48403e463)
-
+  - ![image](https://github.com/user-attachments/assets/56c4ad28-c093-448a-a1ea-80dbe0555b63)
 - **DyT**
   - ![image](https://github.com/user-attachments/assets/7ce761d3-d812-4f15-af95-74544caee483)
   - Learnable Param: alpha
