@@ -16,7 +16,8 @@ Experiments on Dynamic Tanh(Paper: Transformers without Normalization)
 - **ViT: LayerNorm**
   - ![image](https://github.com/user-attachments/assets/80c4aa36-b137-4d36-bbad-5e950fb1e187)
 - **ResNet50: BatchNorm**
-  - ![image](https://github.com/user-attachments/assets/48eada40-4baf-400a-8569-aead640c6386)
+  - ![image](https://github.com/user-attachments/assets/7de461a7-fd31-4552-ae7c-ff5dfe5b4e10)
+
 
 
 # Experiment 2: Reconstruction Experiment on Training with DyT in ResNet50(BatchNorm)
