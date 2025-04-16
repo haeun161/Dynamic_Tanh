@@ -9,9 +9,8 @@ Experiments on Dynamic Tanh(Paper: Transformers without Normalization)
   - ![image](https://github.com/user-attachments/assets/c6fa230e-1610-4b6a-a154-d253263bffc3)
 
 # Experiment 1: Reconstruction Experiment on 'What do Normalization Layer do?'
-1. **Reconstruction Experiment**: checked the input&output of LayerNorm in ViT
-  - ![image](https://github.com/user-attachments/assets/c6fa230e-1610-4b6a-a154-d253263bffc3)
-2. **Comparsion Test** : Checked the input & output of BatchNorm to see whether it has the same Pattern
+1. **Reconstruction Experiment**: checks input&output of LayerNorm in ViT
+2. **Comparsion Test** : Checks input & output of BatchNorm in ResNet50 to see whether it has the same Pattern(S-shaped)
 
 ## Results
 - **ViT: LayerNorm**
